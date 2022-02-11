@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'am **Diandara Tresya Haniva**, Student at University of Singaperbangsa Karawang
+
+A passionate learner with a background in basic web programming, and currently learning about Front-End Back-End Development at Dicoding Indonesia as a participant in Independent Study of Kampus Merdeka x Dicoding Academy Batch 2.
+
+📫 How to reach me: 
+- Linkedin : https://www.linkedin.com/in/diandara-tresya-haniva-17732316b/
 <!--
 **adarahaniv16/adarahaniv16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
